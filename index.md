@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/walthersy/walthersy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center"> :v: Hi there!  </h1>
+<p align="center">
+  I’m Ken<br/>
+  Currently a business analytics post-graduate student at </br>
+  Macquarie University, Syndey, Australia
+</p>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# :sparkles: Main Projects 
 
-### Markdown
+  + :house: [Analysing and predicting NSW house prices](https://github.com/walthersy/NSW-house-price)<br/>
+  + :bicyclist: [Analysing cycling data](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
+  + :soccer: [Analysing effectivity of sports voucher programs](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
+  + :phone: [Predicting customer churn for an Aussie Telco provider](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br/>
 
-```markdown
-Syntax highlighted code block
+# 📫  How to reach me ... 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walthersy/walthersy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/walthersy/)  
+  Click here :point_up_2:
