@@ -16,7 +16,7 @@ These are some of the projects I've done recently. I think the most exciting one
 
 ## Data Visualization
 More coming soon!
-  + :bar_chart: [Facebook vs Amazon Ad Performance](:bar_chart:)<br/>
+  + :bar_chart: [Facebook vs Amazon Ad Performance](https://public.tableau.com/app/profile/ken3291/viz/Marketing-FBvsAmazonads/Dashboard1)<br/>
 
 <br/>
 
