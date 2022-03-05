@@ -13,7 +13,7 @@ These are some of the projects I've done recently. I think the most exciting one
   + :soccer: [Analysing effectivity of sports voucher programs](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
   + :phone: [Predicting customer churn for an Aussie Telco provider](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
 
-## Data Visualization
+### Data Visualization
 More coming soon!
   + :bar_chart: [Facebook vs Amazon Ad Performance](https://public.tableau.com/app/profile/ken3291/viz/Marketing-FBvsAmazonads/Dashboard1)<br/>
 
