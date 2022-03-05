@@ -14,9 +14,13 @@ These are some of the projects I've done recently. I think the most exciting one
   + :soccer: [Analysing effectivity of sports voucher programs](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
   + :phone: [Predicting customer churn for an Aussie Telco provider](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
 
+## Data Visualization
+More coming soon!
+  + :bar_chart: [Facebook vs Amazon Ad Performance](:bar_chart:)<br/>
+
 <br/>
 
-# 📫  How to reach me ... 
+# 📫  How to reach me 
 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/walthersy/)  
   Click here :point_up_2:
