@@ -24,3 +24,7 @@ More coming soon!
 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/walthersy/)  
   Click here :point_up_2:
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="walthersy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/walthersy?trk=profile-badge">Ken Sy</a></div>
+              
