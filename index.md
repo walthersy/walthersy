@@ -10,8 +10,9 @@
 # :sparkles: Main Projects 
 These are some of the projects I've done recently. I think the most exciting one is **predicting NSW house prices**! Granted, it does not have a formal pipeline yet that would make it easier and faster to deploy, but the end result is quite decent! Feel free to check it down below.  
   + :house: [Analysing and predicting NSW house prices](https://github.com/walthersy/NSW-house-price)<br/>
+  + :credit_card: [Predicting credit default](https://github.com/walthersy/CreditCardData)<br/>
   + :bicyclist: [Analysing cycling data](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
-  + :soccer: [Analysing effectivity of sports voucher programs](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
+  + :soccer: [Analysing effectivity of sports voucher programs in Australia](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
   + :phone: [Predicting customer churn for an Aussie Telco provider](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
 
 ### Data Visualization
