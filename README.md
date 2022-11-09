@@ -1,7 +1,7 @@
 <h1 align="center"> :v: Hi there!  </h1>
 <p align="center">
   I’m Ken<br/>
-  Currently a business analytics post-graduate student at<br/>
+  Master's in Business Analytics <br/>
   <strong>Macquarie University, Syndey, Australia</strong>
 </p>
 <br>
@@ -14,6 +14,9 @@ These are some of the projects I've done recently. Feel free to check it down be
   + :soccer: [Analysing effectivity of sports voucher programs in Australia](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
   + :phone: [Predicting customer churn for an Aussie Telco provider](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
   
+#### R samples:
+  + :crystal_ball: [ARIMA Forecasting](https://github.com/walthersy/ARIMAforecasting)
+  + :earth_asia: [Proportional Odds Logistic Regression](https://github.com/walthersy/OddsRegression)
 
 ### Data Visualization
 More coming soon!
