@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> :v: Hi there!  </h1>
+<h1 align="center"> Hi!  </h1>
 <p align="center">
   I’m Ken<br/>
   Master's in Business Analytics <br/>
