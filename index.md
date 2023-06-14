@@ -22,7 +22,8 @@ These are some of the projects I've done recently that are available for public 
 ### Data Visualization
 More coming soon!
   + :bar_chart: [Facebook vs Amazon Ad Performance](https://public.tableau.com/app/profile/ken3291/viz/Marketing-FBvsAmazonads/Dashboard1)<br/>
-  + :blue_car: [NSW Car Crashes](https://public.tableau.com/views/NSWCarCrash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  + :blue_car: [NSW Car Crashes](https://public.tableau.com/views/NSWCarCrash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br/>
+  +  :shopping_cart: [Global Superstore Dashboard](https://public.tableau.com/views/GlobalSuperstore-GettingStarted/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <br/>
 
