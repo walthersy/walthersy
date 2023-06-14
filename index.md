@@ -1,15 +1,14 @@
 
-
-<h1 align="center"> Hi!  </h1>
+<h1 align="center">  Hi!  </h1>
 <p align="center">
   I’m Ken<br/>
-  Master's in Business Analytics <br/>
-  <strong>Macquarie University, Syndey, Australia</strong>
+  A Data Consultant <br/>
+  <strong>Syndey, Australia</strong>
 </p>
 <br>
 
 # :sparkles: Main Projects 
-These are some of the projects I've done recently. Feel free to check it down below!
+These are some of the projects I've done recently that are available for public viewing. Feel free to check it down below!
   + :house: [Analysing and predicting NSW house prices](https://github.com/walthersy/NSW-house-price)<br/>
   + :credit_card: [Predicting credit default](https://github.com/walthersy/CreditCardData)<br/>
   + :bicyclist: [Analysing cycling data](https://github.com/walthersy/DataScience-Portfolio/blob/main/README.md)<br/>
@@ -23,6 +22,7 @@ These are some of the projects I've done recently. Feel free to check it down be
 ### Data Visualization
 More coming soon!
   + :bar_chart: [Facebook vs Amazon Ad Performance](https://public.tableau.com/app/profile/ken3291/viz/Marketing-FBvsAmazonads/Dashboard1)<br/>
+  + :blue_car: [NSW Car Crashes](https://public.tableau.com/views/NSWCarCrash/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <br/>
 
